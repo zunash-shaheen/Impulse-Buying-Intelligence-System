@@ -35,9 +35,3 @@ python -m streamlit run ibis_app.py
 
 The app will open automatically in your browser at `http://localhost:8501`.
 
-## Deployment
-
-This app is fully prepared for deployment on [Streamlit Community Cloud](https://share.streamlit.io/). 
-1. Push this repository to GitHub.
-2. Connect your GitHub to Streamlit Cloud.
-3. Select `ibis_app.py` as the main file and click "Deploy".
